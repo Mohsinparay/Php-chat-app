@@ -19,7 +19,7 @@
                     echo "Something went wrong. Please try again!";
                 }
             }else{
-                echo "Email or Password is Incorrect!";
+                echo "Email or the Password is Incorrect!";
             }
         }else{
             echo "$email - This email not Exist!";
